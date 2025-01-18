@@ -4,10 +4,8 @@ Notepad++ Custom Style
 
   Style name:   Dust Light
   Author:       Laci Bene
-  Date:         2025-01-16 (Last update: 2025-01-16)
-  License:      MIT - https://choosealicense.com/licenses/mit/
-
-
+  Date:         2025-01-16 (Last update: 2025-01-18)
+  License:      GPL-3.0 - https://choosealicense.com/licenses/gpl-3.0/
 
   Description:  A theme built around a very subtle shade of gray I call
                 dust gray. It's completely unused/undiscovered color. It has
@@ -791,12 +789,12 @@ Notepad++ Custom Style
         <WidgetStyle name="Fold margin" styleID="0" fgColor="828793" bgColor="9699A6"></WidgetStyle>
         <WidgetStyle name="White space symbol" styleID="0" fgColor="928F92" bgColor="3476A3"></WidgetStyle>
         <WidgetStyle name="Smart HighLighting" styleID="29" bgColor="DB8976" fgColor="222222"></WidgetStyle>
-        <WidgetStyle name="Find Mark Style" styleID="31" bgColor="F94B0D" fgColor="FF4D0D"></WidgetStyle>
-        <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00659B" fgColor="2C2C33"></WidgetStyle>
-        <WidgetStyle name="Mark Style 2" styleID="24" bgColor="00880B" fgColor="2C2C33"></WidgetStyle>
-        <WidgetStyle name="Mark Style 3" styleID="23" bgColor="A6AA00" fgColor="2C2C33"></WidgetStyle>
-        <WidgetStyle name="Mark Style 4" styleID="22" bgColor="8A0B0B" fgColor="2C2C33"></WidgetStyle>
-        <WidgetStyle name="Mark Style 5" styleID="21" bgColor="44116F" fgColor="2C2C33"></WidgetStyle>
+        <WidgetStyle name="Find Mark Style" styleID="31" bgColor="FF3E30" fgColor="FF4D0D"></WidgetStyle>
+        <WidgetStyle name="Mark Style 1" styleID="25" bgColor="00C0FF" fgColor="2C2C33"></WidgetStyle>
+        <WidgetStyle name="Mark Style 2" styleID="24" bgColor="FF7000" fgColor="2C2C33"></WidgetStyle>
+        <WidgetStyle name="Mark Style 3" styleID="23" bgColor="FFF000" fgColor="2C2C33"></WidgetStyle>
+        <WidgetStyle name="Mark Style 4" styleID="22" bgColor="B070FF" fgColor="2C2C33"></WidgetStyle>
+        <WidgetStyle name="Mark Style 5" styleID="21" bgColor="309000" fgColor="2C2C33"></WidgetStyle>
         <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="0080FF" fgColor="FFFF80"></WidgetStyle>
         <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="6E96F3" fgColor="6E96F3"></WidgetStyle>
         <WidgetStyle name="Tags attribute" styleID="26" bgColor="E0D9CB" fgColor="F7F3EA"></WidgetStyle>

@@ -10,7 +10,7 @@ A theme built around a very subtle shade of gray I call dust gray. It's complete
 
 ### Supported languages
 
-Assembly, Bash, Batch, C, C++, C#, CSS, HTML, INI, Java, JavaScript, Lua, Markdown\*, PHP, Python, Ruby, SQL, XML, YAML  
+Assembly, Bash, Batch, C, C++, C#, CSS, HTML, INI, Java, JavaScript, JSON, Lua, Markdown\*, PHP, Python, Ruby, SQL, XML, YAML  
 Everything else is usable but not arranged.  
 If the theme gets somewhat popular, I'll optimize more languages. (Especially on request of course.)
 
